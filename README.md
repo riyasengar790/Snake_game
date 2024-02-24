@@ -16,7 +16,7 @@ The Snake Game is a simple yet addictive game where players control a snake on t
 To play the Snake Game on your local machine, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/riyasengar790/snake-game.git
 Navigate to the Project Directory:
 cd snake-game
 Run the Game:
